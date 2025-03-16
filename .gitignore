@@ -1,0 +1,17 @@
+# Ignore Power BI temp and cache files
+*.pbit
+*.pbix.autosave
+*.pbip
+*.pbix.lock
+
+# Ignore Power BI log and backup files
+*.log
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore Visual Studio Code workspace settings (if using VS Code)
+.vscode/
